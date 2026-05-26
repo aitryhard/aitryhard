@@ -1,16 +1,17 @@
-## Hi there 👋
+# aitryhard
 
-<!--
-**aitryhard/aitryhard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+> backend developer
+> rust learner
+> building things with code
 
-Here are some ideas to get you started:
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=aitryhard&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aitryhard&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000)
