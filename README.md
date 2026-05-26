@@ -6,8 +6,6 @@
 > building scalable things
 ```
 
-minimalist developer focused on backend, rust and modern technologies
-
 ## stack
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
