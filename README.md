@@ -3,7 +3,7 @@
 ```bash
 > backend developer
 > rust learner
-> building scalable things
+> building ai tools, desktop apps and backend services, scalable things
 ```
 
 ## stack
