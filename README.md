@@ -17,9 +17,9 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=aitryhard&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff)
+![](https://github-readme-stats.vercel.app/api?username=aitryhard&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aitryhard&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aitryhard&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000)
 
 ```bash
 > currently learning ownership, async runtime and backend architecture
