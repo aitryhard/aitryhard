@@ -22,6 +22,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aitryhard&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000)
 
 ```bash
-> building aivex вЂ” desktop ai assistant
+> building aivex -- desktop ai assistant
 > learning distributed systems, rust async, system design
 ```
