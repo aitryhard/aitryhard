@@ -28,12 +28,12 @@
 > tic-tac-toe       # wasm game with ai (rust + yew)
 ```
 
----
-
-![](https://github-readme-stats.vercel.app/api?username=aitryhard&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aitryhard&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000)
+## contacts
 
 ```bash
 > tg: @aitryhard
 ```
+
+![](https://github-readme-stats.vercel.app/api?username=aitryhard&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aitryhard&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000)
