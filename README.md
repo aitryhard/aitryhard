@@ -37,7 +37,7 @@
 
 ## site
 
-[aitryhard-site.vercel.app](https://aitryhard-site.vercel.app)
+[![Site](https://img.shields.io/badge/aitryhard--site.vercel.app-000000?style=for-the-badge&logo=vercel)](https://aitryhard-site.vercel.app)
 
 ![](https://github-readme-stats.vercel.app/api?username=aitryhard&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000)
 
