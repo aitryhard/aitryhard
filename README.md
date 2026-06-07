@@ -1,9 +1,8 @@
 # aitryhard
 
 ```bash
-> backend developer
-> rust learner
-> building ai tools, desktop apps and backend services
+> actively learning, building, practicing
+> rust, backend, ai tools
 ```
 
 ## stack
@@ -22,6 +21,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aitryhard&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000)
 
 ```bash
-> building aivex -- desktop ai assistant
-> learning distributed systems, rust async, system design
+> tg: @aitryhard
 ```
