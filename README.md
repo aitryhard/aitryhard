@@ -9,10 +9,15 @@
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
 ![Tauri](https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri)
-![Backend](https://img.shields.io/badge/Backend-000000?style=for-the-badge)
+![Electron](https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=electron)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite)
 
 ---
 
