@@ -22,11 +22,13 @@
 ## projects
 
 ```bash
-aivex             # desktop ai assistant (tauri + electron + react)
-follow-the-rabbit # interactive trail game (next.js + typescript)
-rss-digest        # telegram rss bot with ollama (rust)
-tic-tac-toe       # wasm game with ai (rust + yew)
+> aivex             # desktop ai assistant (tauri + electron + react)
+> follow-the-rabbit # interactive trail game (next.js + typescript)
+> rss-digest        # telegram rss bot with ollama (rust)
+> tic-tac-toe       # wasm game with ai (rust + yew)
 ```
+
+---
 
 ![](https://github-readme-stats.vercel.app/api?username=aitryhard&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000)
 
