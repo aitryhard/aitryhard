@@ -1,7 +1,9 @@
 # aitryhard
 
-> building desktop apps, backend services & ai tools
-> rust · typescript
+```bash
+> building desktop apps, backend services and ai tools
+> rust, typescript
+```
 
 ## stack
 
@@ -19,16 +21,20 @@
 
 ## projects
 
-> fintrackai         # ai-powered fintech @ ledgify
-> aivex              # desktop ai assistant (tauri + electron + react)
-> follow-the-rabbit  # interactive trail game (next.js + typescript)
-> rss-digest         # telegram rss bot with ollama (rust)
-> tic-tac-toe        # wasm game with ai (rust + yew)
+```bash
+> fintrackai        # ai-powered fintech @ ledgify
+> aivex             # desktop ai assistant (tauri + electron + react)
+> follow-the-rabbit # interactive trail game (next.js + typescript)
+> rss-digest        # telegram rss bot with ollama (rust)
+> tic-tac-toe       # wasm game with ai (rust + yew)
+```
 
 ## contacts
 
+```bash
 > tg: @aitryhard
 > mail: a1tryh4rd@gmail.com
+```
 
 ## site
 
