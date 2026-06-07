@@ -32,6 +32,8 @@
 
 ```bash
 > tg: @aitryhard
+> site: aitryhard-site.vercel.app
+> mail: a1tryh4rd@gmail.com
 ```
 
 ![](https://github-readme-stats.vercel.app/api?username=aitryhard&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000)
