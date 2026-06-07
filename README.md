@@ -32,9 +32,12 @@
 
 ```bash
 > tg: @aitryhard
+> mail: a1tryh4rd@gmail.com
 ```
 
-[aitryhard-site.vercel.app](https://aitryhard-site.vercel.app) В· a1tryh4rd@gmail.com
+## site
+
+[aitryhard-site.vercel.app](https://aitryhard-site.vercel.app)
 
 ![](https://github-readme-stats.vercel.app/api?username=aitryhard&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000)
 
