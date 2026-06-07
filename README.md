@@ -22,10 +22,10 @@
 ## projects
 
 ```bash
-aivex       # desktop ai assistant (tauri + electron + react)
-rss-digest  # telegram rss bot with ollama summarization (rust)
-tic-tac-toe # wasm game with ai opponent (rust + yew)
-taskmanager # crud app (react + node.js + mongodb)
+aivex             # desktop ai assistant (tauri + electron + react)
+follow-the-rabbit # interactive trail game (next.js + typescript)
+rss-digest        # telegram rss bot with ollama (rust)
+tic-tac-toe       # wasm game with ai (rust + yew)
 ```
 
 ---
