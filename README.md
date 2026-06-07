@@ -28,7 +28,9 @@ rss-digest        # telegram rss bot with ollama (rust)
 tic-tac-toe       # wasm game with ai (rust + yew)
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=aitryhard&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" height="150"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aitryhard&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" height="150"/>
+![](https://github-readme-stats.vercel.app/api?username=aitryhard&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aitryhard&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=aitryhard&theme=github-dark&bg_color=00000000&hide_border=true)
 
